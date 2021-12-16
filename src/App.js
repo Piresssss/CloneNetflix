@@ -60,6 +60,7 @@ export default () => {
         Feito por Raphael Pires<br/>
         Direitos de imagem para Netflix<br/>
         API disponibilizada pelo site Themoviedb.org<br/>
+        <img src="https://uploaddeimagens.com.br/images/003/592/354/original/horizontal_on_white_by_logaster-removebg-preview.png?1639697452" alt="RPiresS" />
       </footer>
 
       {movieList.length <= 0 &&
